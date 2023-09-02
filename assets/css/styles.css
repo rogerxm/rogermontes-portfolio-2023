@@ -223,7 +223,7 @@ img {
     left: 0%;
     width: 100%;
     padding-block: 1.8rem 5rem;
-    background-color: hsla(0, 0%, 0%, 0.75);
+    background-color: black;
     text-align: center;
     backdrop-filter: blur(8px);
     transition: top 0.4s;
