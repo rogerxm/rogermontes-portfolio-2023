@@ -385,13 +385,12 @@ img {
 }
 
 .home__social {
-  height: max-content;
   position: absolute;
   left: -3rem;
   top: 0;
   bottom: 0;
-  margin: auto 0;
   display: grid;
+  align-content: center;
   row-gap: 1rem;
 }
 
@@ -1028,16 +1027,6 @@ img {
 
   .home__image {
     width: 180px;
-  }
-
-  .home__social {
-    position: absolute;
-    left: -3rem;
-    top: 0;
-    bottom: 0;
-    display: grid;
-    align-content: center;
-    row-gap: 1rem;
   }
 
   .about__image {
